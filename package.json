@@ -1,0 +1,23 @@
+{
+  "name": "arl-cemet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvald8/arl-cemet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvald8/arl-cemet/issues"
+  },
+  "homepage": "https://github.com/jvald8/arl-cemet#readme",
+  "dependencies": {
+    "moment": "^2.14.1",
+    "superagent": "^2.1.0"
+  }
+}
